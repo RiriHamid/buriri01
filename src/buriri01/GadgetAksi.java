@@ -12,13 +12,6 @@ package buriri01;
 public class GadgetAksi {
     public static void main(String[] args) {
         Gadget Notebook = new Gadget();
-        
-        Notebook.merk="Acer";
-        Notebook.warna="Hitam";
-        Notebook.tahun="2016";
-        Notebook.ukuran="10 inci";
-        Notebook.harga="3Juta";
-        
-        Notebook.cetakInfo();
+
     }
 }
