@@ -18,5 +18,7 @@ public class GadgetAksi {
         Notebook.tahun="2016";
         Notebook.ukuran="10 inci";
         Notebook.harga="3Juta";
+        
+        Notebook.cetakInfo();
     }
 }
