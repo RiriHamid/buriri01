@@ -18,5 +18,7 @@ public class GadgetAksi3 {
          Hp.tahun="2017";
          Hp.ukuran="3 inci";
          Hp.harga="4Juta";
+         
+         Hp.cetakInfo();
      }
 }
