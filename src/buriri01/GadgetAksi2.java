@@ -11,5 +11,7 @@ package buriri01;
  */
 public class GadgetAksi2 {
      public static void main(String[] args) {
+         Gadget Tablet = new Gadget();
+         
 }
 }
