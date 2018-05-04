@@ -18,5 +18,7 @@ public class GadgetAksi2 {
          Tablet.tahun="2018";
          Tablet.ukuran="8 inci";
          Tablet.harga="2Juta";
+         
+         Tablet.cetakInfo();
 }
 }
