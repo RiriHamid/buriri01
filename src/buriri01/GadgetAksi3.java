@@ -11,6 +11,6 @@ package buriri01;
  */
 public class GadgetAksi3 {
      public static void main(String[] args) {
-         
+         Gadget Hp = new Gadget();
      }
 }
