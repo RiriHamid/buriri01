@@ -13,5 +13,10 @@ public class GadgetAksi2 {
      public static void main(String[] args) {
          Gadget Tablet = new Gadget();
          
+         Tablet.merk="Lenovo";
+         Tablet.warna="Putih";
+         Tablet.tahun="2018";
+         Tablet.ukuran="8 inci";
+         Tablet.harga="2Juta";
 }
 }
