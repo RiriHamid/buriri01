@@ -12,5 +12,11 @@ package buriri01;
 public class GadgetAksi3 {
      public static void main(String[] args) {
          Gadget Hp = new Gadget();
+         
+         Hp.merk="Samsung";
+         Hp.warna="Grey";
+         Hp.tahun="2017";
+         Hp.ukuran="3 inci";
+         Hp.harga="4Juta";
      }
 }
